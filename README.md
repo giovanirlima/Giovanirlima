@@ -1,7 +1,7 @@
 ## Olá, Bem vindo ao meu perfil do GitHub!!! 👋*
 
  - 😃 Meu nome é Giovani 
- - 📧 E-mail: Giovanirlima@gmail.com
+ - 📧 E-mail: Giiovanirlima@gmail.com
 
 
 <div align="center">
